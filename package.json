@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "learning Node js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "node",
+    "project"
+  ],
+  "author": "Shahbaz",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "one-liner-joke": "^1.2.2"
+  }
+}
